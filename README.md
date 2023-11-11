@@ -2,7 +2,6 @@
 
 **View the Clone: [Discord Clone](https://razorpayreplica.netlify.app/)**
 
-
 This project is a clone of the homepage of RazorPay, a popular payment gateway service. It's built using HTML and CSS and aims to replicate the RazorPay homepage's design and layout.
 
 ![RazorPay Homepage Clone]
